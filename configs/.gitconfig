@@ -1,0 +1,12 @@
+[user]
+	name = danerlt
+	email = danerlt001@gmail.com
+[core]
+	autocrlf = true
+[winUpdater]
+	recentlySeenVersion = 2.18.0.windows.1
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

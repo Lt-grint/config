@@ -1,0 +1,5 @@
+C:/Users/tao/.condarc
+C:/Users/tao/.gitconfig
+C:/Users/tao/.pip/pip.conf
+H:/config/README.md
+H:/config/file_list.txt

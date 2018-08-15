@@ -1,0 +1,3 @@
+C:/Users/tao/.condarc
+C:/Users/tao/.gitconfig
+C:/Users/tao/.pip/pip.conf

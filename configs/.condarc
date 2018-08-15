@@ -1,0 +1,16 @@
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+show_channel_urls: true
+envs_dirs:
+  - D:\data\conda\envs
+  - C:\Users\tao\AppData\Local\conda\conda\envs
+  - C:\Users\tao\.conda\envs                  
+pkgs_dirs:
+  - D:\data\conda\pkgs
+  - C:\Users\tao\AppData\Local\conda\conda\pkgs
+  - C:\Users\tao\.conda
+
+
+
